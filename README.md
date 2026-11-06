@@ -69,4 +69,4 @@ The database and table are created automatically on first run. Or open `Expense_
 - Building a desktop GUI with Tkinter
 
 ## Author
-**Venkatesh Gajul** - [LinkedIn](www.linkedin.com/in/venkateshgajul) | [Email](mailto:venkateshgajul783@gmail.com)
+**Venkatesh Gajul** - [LinkedIn](https://www.linkedin.com/in/venkateshgajul/) | [Email](mailto:venkateshgajul783@gmail.com)
